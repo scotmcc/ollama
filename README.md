@@ -410,6 +410,7 @@ See the [API documentation](./docs/api.md) for all endpoints.
 - [aichat](https://github.com/sigoden/aichat) All-in-one LLM CLI tool featuring Shell Assistant, Chat-REPL, RAG, AI tools & agents, with access to OpenAI, Claude, Gemini, Ollama, Groq, and more.
 - [PowershAI](https://github.com/rrg92/powershai) PowerShell module that brings AI to terminal on Windows, including support for Ollama
 - [orbiton](https://github.com/xyproto/orbiton) Configuration-free text editor and IDE with support for tab completion with Ollama.
+- [waveterm](https://www.waveterm.dev) Wave is an open-source terminal with superpowers, integrating file previews, file editing, AI, web browsing, and workspace organization.
 
 ### Apple Vision Pro
 
