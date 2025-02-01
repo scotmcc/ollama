@@ -355,7 +355,7 @@ See the [API documentation](./docs/api.md) for all endpoints.
 - [Ollama App](https://github.com/JHubi1/ollama-app) (Modern and easy-to-use multi-platform client for Ollama)
 - [SpaceLlama](https://github.com/tcsenpai/spacellama) (Firefox and Chrome extension to quickly summarize web pages with ollama in a sidebar)
 - [YouLama](https://github.com/tcsenpai/youlama) (Webapp to quickly summarize any YouTube video, supporting Invidious as well)
-- [DualMind](https://github.com/tcsenpai/dualmind) (Experimental app allowing two models to talk to each other in the terminal or in a web interface)
+- [DualMind](https://github.com/tcsenpai/dualmind) (Experimental app allowing two models to talk to each other in the  or in a web interface)
 - [ollamarama-matrix](https://github.com/h1ddenpr0cess20/ollamarama-matrix) (Ollama chatbot for the Matrix chat protocol)
 - [ollama-chat-app](https://github.com/anan1213095357/ollama-chat-app) (Flutter-based chat app)
 - [Perfect Memory AI](https://www.perfectmemory.ai/) (Productivity AI assists personalized by what you have seen on your screen, heard and said in the meetings)
@@ -377,7 +377,7 @@ See the [API documentation](./docs/api.md) for all endpoints.
 - [Fly.io](https://fly.io/docs/python/do-more/add-ollama/)
 - [Koyeb](https://www.koyeb.com/deploy/ollama)
 
-### Terminal
+### 
 
 - [oterm](https://github.com/ggozad/oterm)
 - [Ellama Emacs client](https://github.com/s-kostyaev/ellama)
@@ -410,6 +410,7 @@ See the [API documentation](./docs/api.md) for all endpoints.
 - [aichat](https://github.com/sigoden/aichat) All-in-one LLM CLI tool featuring Shell Assistant, Chat-REPL, RAG, AI tools & agents, with access to OpenAI, Claude, Gemini, Ollama, Groq, and more.
 - [PowershAI](https://github.com/rrg92/powershai) PowerShell module that brings AI to terminal on Windows, including support for Ollama
 - [orbiton](https://github.com/xyproto/orbiton) Configuration-free text editor and IDE with support for tab completion with Ollama.
+- [waveterm](https://www.waveterm.dev) Wave is an open-source terminal with superpowers, integrating file previews, file editing, AI, web browsing, and workspace organization.
 
 ### Apple Vision Pro
 
